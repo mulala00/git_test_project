@@ -1,0 +1,21 @@
+# Python compile files
+*.pyc
+
+#Robot Log
+output/
+.syslog.txt
+
+
+#PyCharm Project Info
+.idea/
+.DS_Store
+
+
+# Binary file
+*.bin
+
+# Temp files
+*_tmp/
+
+# 个人配置信息
+.personal.ini
