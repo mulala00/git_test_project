@@ -1,3 +1,10 @@
 x
 
+<<<<<<< HEAD
 2016-07-21 20:11:21.0: Hello from:GitHub SSH Repo History File Edit and Push
+=======
+2016-07-21 20:10:57.0: Hello from:GitHub HTTPs Repo History File Edit and Push
+2016-07-21 20:19:43.0: Hello from:GitHub HTTPs Repo History File Edit and Push
+>>>>>>> 4e1aba4e243a8485d1bd54e3a57ffab07c183628
+
+2016-07-21 20:20:27.0: Hello from:GitHub SSH Repo History File Edit and Push
